@@ -1,0 +1,2 @@
+# Local Development
+Planned stack: Node LTS, pnpm, TypeScript, Next.js, API module, PostgreSQL, Redis/queue. This repository currently contains design scaffolding, not runnable services. See README and package.json; do not assume production integration is active. Use .env.example with dummy placeholders; keep local .env and provider credentials out of Git. Run formatting, typecheck, unit tests and tenant isolation tests before PR.

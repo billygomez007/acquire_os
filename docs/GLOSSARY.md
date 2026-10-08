@@ -1,0 +1,2 @@
+# Glossary
+CPA: cost per acquisition. CPL: cost per lead. CPQL: cost per qualified lead. CTR: click-through rate. ROAS: revenue divided by ad spend, not profit. Conversion: event defined and deduplicated against source. Consent receipt: traceable permission for specific marketing communications. Campaign proposal: AI- or human-authored draft with no external side effect. Approval: authorized confirmation of action version and spend cap. RLS: row-level security. Outbox: transactional event delivery pattern. Idempotency: safely repeat request without double effect.

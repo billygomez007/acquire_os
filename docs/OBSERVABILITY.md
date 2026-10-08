@@ -1,0 +1,2 @@
+# Observability
+Structured JSON logs with tenant/job/request correlation, strict PII redaction; OpenTelemetry tracing; metrics for API p95, error rate, queue age, provider quota, webhook lag, OAuth failures, AI tokens/cost, campaign submit success, spend policy denials, messaging opt-outs and attribution latency. Alert on stalled publisher, unexpected spend, missing conversion events, cross-tenant access denials and secret rotations. Logs should not store raw prompts containing PII unless necessary and governed.

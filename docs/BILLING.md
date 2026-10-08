@@ -1,0 +1,2 @@
+# Billing
+Customer subscription, metered AI credits and optional managed-service invoices are separate from media buying spend charged by providers. Use hosted payments, webhook signature validation and immutable payment event ledger; never store raw card numbers. Guard trial abuse, grace periods, proration, invoice taxes, currencies, refunds and spend authorization. A displayed ROAS is revenue/spend and not profit. Chargeback and reconciliation are human-reviewed.

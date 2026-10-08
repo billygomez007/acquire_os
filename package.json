@@ -1,0 +1,15 @@
+{
+  "name": "acquireos-ai",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Planning scaffold for AcquireOS AI; apps not yet implemented",
+  "packageManager": "pnpm@10.0.0",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "typecheck": "echo 'Application packages not yet scaffolded'",
+    "test": "echo 'Tests not yet implemented'"
+  }
+}

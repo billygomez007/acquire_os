@@ -1,0 +1,2 @@
+# Deployment Architecture
+Staging and production use isolated data, OAuth apps, providers and credentials. CI runs lint, typecheck, tests, migration check, SAST, dependency scanning and build artifacts. Release through protected default branch and signed/traceable deployments. Configure secrets in secret manager. Migrate backwards-compatibly before feature activation. Implement rollback, job pause/kill switch, DB PITR, object restore, restore tests and monitoring. Provider/API outages must never trigger uncontrolled retries or overspend.

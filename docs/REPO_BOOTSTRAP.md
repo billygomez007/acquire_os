@@ -1,0 +1,2 @@
+# Repository Bootstrap
+Codename AcquireOS AI; GitHub repository billygomez007/acquire_os. Design-oriented foundation; application implementation is outstanding. Keep src applications under apps/web, apps/api, apps/worker; shared code under packages/ai, db, core, integrations, security, ui. Start with organization/auth/RLS and policy-gated campaign intents. Bootstrap package management only after selecting pinned, security-reviewed dependencies. Enable branch protection, secret scanning, dependency alerts, CODEOWNERS and required CI.
